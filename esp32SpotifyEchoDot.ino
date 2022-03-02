@@ -6,7 +6,7 @@
 #include "MFRC522.h"
 
 #include "settings.h"
-
+///
 #define RST_PIN 22 // Configurable, see typical pin layout above
 #define SS_PIN 21  // Configurable, see typical pin layout above
 
